@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>578974567386-o71t5ib9hq5r87abnscgs7o91jhqv5qg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.578974567386-o71t5ib9hq5r87abnscgs7o91jhqv5qg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6P1pk1ZKXMsLouXQwmDv_u_bpyJPz29Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>578974567386</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BetITNetwork.BetIT</string>
+	<key>PROJECT_ID</key>
+	<string>betit-4dc06</string>
+	<key>STORAGE_BUCKET</key>
+	<string>betit-4dc06.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:578974567386:ios:c46b3b08370becc4</string>
+	<key>DATABASE_URL</key>
+	<string>https://betit-4dc06.firebaseio.com</string>
+</dict>
+</plist>

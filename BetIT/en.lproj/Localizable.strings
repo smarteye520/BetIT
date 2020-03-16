@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  BetIT
+
+  Created by OSX on 8/2/19.
+  Copyright © 2019 MajestykApps. All rights reserved.
+*/
+
+"closed" = "Closed";
+"settled" = "Settled";
+"unsettled" = "Unsettled";
+
+"live" = "Live";
+"pending_bet_action_needed" = "Pending Bet Action Needed";
+"bet_won" = "Bet Won";
+"opponent_claimed_win_action_needed" = "Opponent Claimed Win Action Needed";
+"expired" = "Expired";
+"claimed_win" = "Claimed a win";
+"bet_lost" = "Bet Lost";
+"disputed" = "Disputed";
+"declined" = "Declined";
+
+"active_bets" = "Active Bets";
+"bet_requests" = "Bet Requests";
+
+"bets_won" = "Bets Won";
+"bets_lost" = "Bets Lost";
+
+"claims" = "Claims";
+"disputed" = "Disputed";
+"wagers" = "Wagers";
+
+"denied_your_claim" = "Denied your Claim";
+"lost_this_bet" = "Lost this bet";
+"won_this_bet" = "Won this bet";
+
+"edit_profile" = "Edit Profile";
+"notification_settings" = "Notification Settings";
+"invite_friends" = "Invite Friends";
+"support_faq" = "Support";
+"terms_conditions" = "Terms & Conditions";
+"privacy_policy" = "Privacy Policy";
+"logout" = "Logout";
+
+"notification_accepted" = "%@ accepted your bet! “%@“.";
+"notification_challengeRequested" = "%@ is challenging you to a bet! “%@“.";
+"notification_opponentClaimedLost" = "%@ claimed a lost on “%@“. Nice job!";
+"notification_opponentClaimedWin" = "%@ claimed a win on “%@“. Confirm now.";
+"notification_expired" = "%@’s bet request has expired. Start a new bet with him now!";
+"notification_disputed" = "%@ disputed your claim for “%@“.";
+"notification_declined" = "%@ declined your bet request.";
+"notification_bet_won" = "%@ won on “%@“.";
+"notification_bet_lost" = "%@ lost on “%@“.";
+"notification_end_action_confirm" = "%@ confirmed you won on “%@“.";
+
+"bet_accepted_description" = "BET ACCEPTED!\n May the odds be ever in your favor.\nWhen the results are in, return here to claim your victory or concede defeat.";
+"accept_bet" = "ACCEPT BET";
+"decline_bet" = "Decline Bet";
+"i_lost" = "I LOST";
+"i_won" = "I WON";
+"confirm_their_win" = "CONFIRM THEIR WIN";
+"dispute" = "Dispute";
+"winning_claimed" = "WIN CLAIMED!";
+"winning_claimed_description" = "Your opponent might need a little time to get \nover their loss. Hang tight while they wipe their \ntears and confirm your win.";
+"lost_claimed" = "LOST CLAIMED!";
+"lost_claimed_description" = "Better luck next time.";
+"bet_disputed" = "BET DISPUTED!";
+"claim_again" = "Claim again:";
+"winner" = "Winner!";
+"winner_confirm_description" = "Are you sure you want to \n claim this bet as a win?";
+"womp_womp" = "Womp womp…";
+"loser_confirm_description" = "Are you sure you want to claim this bet as a lost?";
+"decline_confirm_description" = "All declined bets will automatically be deleted. Are you sure you want to decline this bet?";
+"decline" = "Decline";
+"cancel" = "Cancel";
+"yes" = "Yes";
+"" = "";
