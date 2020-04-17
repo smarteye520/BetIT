@@ -1,5 +1,8 @@
 # BetIT-iOS
 
+- App Link
+https://apps.apple.com/us/app/betit/id1483328662
+
 ## Project setup
 
 ### Requirements
